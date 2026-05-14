@@ -243,7 +243,7 @@ Laravel server + client app + Raspberry-Pi-based vehicle barrier controllers at 
 ### 👥 HRIS &amp; HRIS Mobile
 > **HR platform + Flutter companion app.**
 
-Laravel 12 + PostgreSQL 17 (PgBouncer-pooled) HR system with 12 scheduled jobs and a **Flutter mobile companion** distributed through a custom APK portal at `apk.lky.systems`. Custom one-command release pipeline (`release-apk.sh`): version-bump → build → upload-to-Synology → DB-register → smoke-test → commit.
+Laravel 12 + PostgreSQL 17 (PgBouncer-pooled) HR system with 12 scheduled jobs and a **Flutter mobile companion** distributed through a custom internal APK portal. Custom one-command release pipeline (`release-apk.sh`): version-bump → build → upload-to-NAS → DB-register → smoke-test → commit.
 
 `Laravel 12` &nbsp;·&nbsp; `PostgreSQL 17` &nbsp;·&nbsp; `PgBouncer` &nbsp;·&nbsp; `Flutter` &nbsp;·&nbsp; `Redis`
 
@@ -276,7 +276,7 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 ### 🌐 WordPress Estate — Multi-Tenant Hosting
 > **Six production sites, two Proxmox hosts.**
 
-`theorientalhotels.com`, `lkygroup.com`, `mwx.systems`, `wtl.lky.systems`, `lky.systems`, `apk.lky.systems` — each behind its own Cloudflare Tunnel. Includes a multisite migration from shared cPanel hosting to fully Dockerized WordPress.
+Six production WordPress properties for the LKY Group portfolio — each behind its own Cloudflare Tunnel. Includes a cross-host migration from shared cPanel hosting to fully Dockerized WordPress.
 
 `nginx` &nbsp;·&nbsp; `php-fpm 8.4` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Cloudflare Tunnel`
 
@@ -325,11 +325,11 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 
 | 🎯 | Achievement |
 |----|-------------|
-| 📦 | **Internal APK distribution portal** at `apk.lky.systems` — three-tier delivery (Cloudflare Tunnel → LXC nginx + FileBrowser → Synology CIFS) with scoped users and a custom Tailwind/Alpine landing page. |
-| 🚀 | **One-command Flutter release pipeline** — idempotent shell pipeline: pubspec bump → APK build → Synology upload → DB registration → version-check smoke test → commit. |
-| 🔀 | **Cross-host production migration** of `lkygroup.com` from shared cPanel to dedicated Dockerized stack on a new Proxmox host, with staging URL, DNS cut-over, and rollback path. |
-| 📉 | **Post-incident infrastructure right-sizing** — recovered HRIS Staging + TMS Production after a Proxmox over-provisioning event and re-baselined LXC CPU/RAM across two PVE hosts. |
-| ☁️ | **Cloudflare Tunnel ingress automation** via the Cloudflare API — reproducible domain onboarding (`apk.lky.systems`, `wtl.lky.systems`, …). |
+| 📦 | **Internal APK distribution portal** — three-tier delivery (Cloudflare Tunnel → LXC nginx + FileBrowser → NAS over CIFS) with scoped users and a custom Tailwind/Alpine landing page. |
+| 🚀 | **One-command Flutter release pipeline** — idempotent shell pipeline: pubspec bump → APK build → NAS upload → DB registration → version-check smoke test → commit. |
+| 🔀 | **Cross-host production migration** of a primary company site from shared cPanel hosting to a dedicated Dockerized stack on a new Proxmox host, with staging URL, DNS cut-over, and rollback path. |
+| 📉 | **Post-incident infrastructure right-sizing** — recovered HR and Transport production stacks after a Proxmox over-provisioning event and re-baselined LXC CPU/RAM across two PVE hosts. |
+| ☁️ | **Cloudflare Tunnel ingress automation** via the Cloudflare API — reproducible domain onboarding across multiple internal portals. |
 | 🛡️ | **Network segmentation &amp; hardening** — VLAN-isolated management/server/user/IoT/guest networks; default-deny firewall; SSH key-only; fail2ban; SNMPv3 only. |
 | ⏱️ | **Resilience tooling** — watchdog timers and post-reboot ordering fixes for nginx network-race, code-server heap leak, and Redis AOF corruption recovery. |
 
