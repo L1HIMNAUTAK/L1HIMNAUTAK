@@ -345,7 +345,7 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
   <a href="https://github.com/L1HIMNAUTAK"><img src="https://img.shields.io/github/followers/L1HIMNAUTAK?label=Followers&style=for-the-badge&color=58a6ff&logo=github&labelColor=0d1117" /></a>
   <a href="https://github.com/L1HIMNAUTAK?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&style=for-the-badge&color=ff6b9d&logo=github&labelColor=0d1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FL1HIMNAUTAK" /></a>
   <a href="https://github.com/L1HIMNAUTAK"><img src="https://img.shields.io/badge/dynamic/json?label=Gists&style=for-the-badge&color=ffaa40&logo=github&labelColor=0d1117&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FL1HIMNAUTAK" /></a>
-  <a href="https://github.com/L1HIMNAUTAK?tab=stars"><img src="https://img.shields.io/badge/dynamic/json?color=ffd700&style=for-the-badge&logo=github&labelColor=0d1117&label=Total%20Stars&query=%24.starredRepositories.totalCount&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FL1HIMNAUTAK" /></a>
+  <a href="https://github.com/L1HIMNAUTAK"><img src="https://img.shields.io/badge/dynamic/json?color=ffd700&style=for-the-badge&logo=github&labelColor=0d1117&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FL1HIMNAUTAK" /></a>
 </p>
 
 <p align="center">
