@@ -278,10 +278,10 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 
 <p align="center">
   <a href="https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L1HIMNAUTAK&repo=StartIsBack-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="StartIsBack-Reset-Script" />
+    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=L1HIMNAUTAK&repo=StartIsBack-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="StartIsBack-Reset-Script" />
   </a>
   <a href="https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L1HIMNAUTAK&repo=AnyDesk-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="AnyDesk-Reset-Script" />
+    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=L1HIMNAUTAK&repo=AnyDesk-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="AnyDesk-Reset-Script" />
   </a>
 </p>
 
@@ -312,12 +312,12 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1HIMNAUTAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b9d&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=L1HIMNAUTAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b9d&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1HIMNAUTAK&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=ff6b9d&fire=ffaa40&currStreakLabel=58a6ff" alt="Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1HIMNAUTAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top languages" height="200" />
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=L1HIMNAUTAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top languages" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=L1HIMNAUTAK&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ffffff&area=true&area_color=58a6ff" alt="Activity graph" height="200" />
 </p>
 
