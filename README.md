@@ -97,32 +97,78 @@ Small, focused PowerShell tools for Windows administrators:
 
 ## Technical Stack
 
-**Languages &amp; Runtimes**
-PHP 8.2 / 8.4 · Dart · Bash · Python · SQL
+#### Languages &amp; Runtimes
+![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-12-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-5-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Standard-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend Frameworks**
-Laravel 11 / 12 · Livewire 3 · Filament 3
+#### Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-3-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-3-F59E0B?style=flat-square&logo=laravel&logoColor=white)
 
-**Frontend**
-Tailwind CSS 3.4+ · Alpine.js 3 · Blade · Vite · Heroicons / Lucide
+#### Frontend
+![Blade](https://img.shields.io/badge/Blade-Templating-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-3-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Heroicons](https://img.shields.io/badge/Heroicons-2-7C3AED?style=flat-square)
+![Lucide](https://img.shields.io/badge/Lucide-Icons-F56565?style=flat-square&logo=lucide&logoColor=white)
 
-**Mobile**
-Flutter 3.x · Dart · Android Studio
+#### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2024-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-**Databases &amp; Caching**
-PostgreSQL 17 · PgBouncer · MySQL 8 · Redis · SQLite
+#### Databases &amp; Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PgBouncer](https://img.shields.io/badge/PgBouncer-pooler-336791?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Infrastructure &amp; Virtualization**
-Proxmox VE 8 · LXC · Docker · Dockge · nginx · Apache · code-server · FileBrowser
+#### Infrastructure &amp; Virtualization
+![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-8-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-Containers-323330?style=flat-square&logo=linuxcontainers&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Engine-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Dockge](https://img.shields.io/badge/Dockge-UI-2496ED?style=flat-square)
+![nginx](https://img.shields.io/badge/nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-HTTPd-D22128?style=flat-square&logo=apache&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology-DSM-11225E?style=flat-square&logo=synology&logoColor=white)
 
-**Networking**
-MikroTik RouterOS 7 · Cisco IOS · VLAN · WireGuard · L2TP/IPsec · Cloudflare Zero Trust · Cloudflare API automation
+#### Networking &amp; Security
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS%207-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![fail2ban](https://img.shields.io/badge/fail2ban-IPS-D32F2F?style=flat-square)
+![UFW](https://img.shields.io/badge/UFW-Firewall-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
 
-**Operating Systems**
-Debian 12 / 13 · Ubuntu LTS · Synology DSM · Windows Server
+#### Operating Systems
+![Debian](https://img.shields.io/badge/Debian-12%2F13-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2019%2F2022-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11&logoColor=white)
 
-**Tooling &amp; Practices**
-Git · Composer · PHPUnit · Laravel Pint · PSR-12 · Form Requests · Service / Action layer · API Resources · Eager loading · Index discipline · CSRF · Route model binding
+#### Tooling &amp; Practices
+![Git](https://img.shields.io/badge/Git-SCM-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-SCM-181717?style=flat-square&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-PHP-885630?style=flat-square&logo=composer&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-.NET-004880?style=flat-square&logo=nuget&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-366488?style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+> **Engineering practices**: PSR-12 · Form Requests · Service / Action layer · Route Model Binding · API Resources · Eager Loading · Index discipline · CSRF · Default-deny firewalls · Backup-before-change · Least privilege
 
 ---
 
