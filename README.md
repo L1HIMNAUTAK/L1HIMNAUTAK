@@ -276,14 +276,34 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 
 <h3 align="center">🛠️ Open-Source Utilities</h3>
 
-<p align="center">
-  <a href="https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=L1HIMNAUTAK&repo=StartIsBack-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="StartIsBack-Reset-Script" />
-  </a>
-  <a href="https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=L1HIMNAUTAK&repo=AnyDesk-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="AnyDesk-Reset-Script" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧹 [StartIsBack-Reset-Script](https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script)
+
+[![Stars](https://img.shields.io/github/stars/L1HIMNAUTAK/StartIsBack-Reset-Script?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script/stargazers)
+[![Forks](https://img.shields.io/github/forks/L1HIMNAUTAK/StartIsBack-Reset-Script?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script/network/members)
+[![Language](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117)](#)
+[![License](https://img.shields.io/github/license/L1HIMNAUTAK/StartIsBack-Reset-Script?style=for-the-badge&color=ff6b9d&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script/blob/main/LICENSE)
+
+> A powerful PowerShell script that fully resets StartIsBack — cleaning all traces, registry keys, and CLSIDs for a fresh start or clean uninstall.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ [AnyDesk-Reset-Script](https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script)
+
+[![Stars](https://img.shields.io/github/stars/L1HIMNAUTAK/AnyDesk-Reset-Script?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script/stargazers)
+[![Forks](https://img.shields.io/github/forks/L1HIMNAUTAK/AnyDesk-Reset-Script?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script/network/members)
+[![Language](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117)](#)
+[![License](https://img.shields.io/github/license/L1HIMNAUTAK/AnyDesk-Reset-Script?style=for-the-badge&color=ff6b9d&labelColor=0d1117)](https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script/blob/main/LICENSE)
+
+> A lightweight PowerShell tool to reset AnyDesk settings, remove traces, and restore it to a fresh state — perfect for troubleshooting or clean reinstalls.
+
+</td>
+</tr>
+</table>
 
 <!-- ╔════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ENGINEERING HIGHLIGHTS                        ║ -->
