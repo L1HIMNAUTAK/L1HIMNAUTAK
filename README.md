@@ -1,203 +1,372 @@
 <!--
-  GitHub Profile README — Mike Gonzales
-  Save this as `README.md` in a repo named EXACTLY the same as your GitHub username.
-  That special repo turns into your profile landing page.
-
-  TODO before publishing:
-  - Replace `L1HIMNAUTAK` with your actual GitHub handle (search the file).
-  - Replace contact links (email, LinkedIn) with your preferred public ones.
-  - Adjust the experience years / metrics if any number doesn't match.
+  GitHub Profile README — Mike Gonzales (@L1HIMNAUTAK)
+  Animated, colorful, dual-discipline profile.
 -->
 
-<h1 align="center">Mike Gonzales</h1>
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       HEADER BANNER                            ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<a href="https://github.com/L1HIMNAUTAK">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Mike%20Gonzales&fontSize=70&fontAlignY=35&desc=Senior%20Software%20%C2%B7%20Network%20%26%20Infrastructure%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header" />
+</a>
 
 <p align="center">
-  <em>Senior Software Engineer &nbsp;·&nbsp; Network &amp; Infrastructure Engineer</em>
+  <a href="https://github.com/L1HIMNAUTAK">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2400&pause=600&color=6EE7B7&center=true&vCenter=true&width=720&lines=Full-Stack+Engineer+%40+LKY+Group;Laravel+%E2%9D%A4+Livewire+%E2%9D%A4+Filament;C%23+.NET+%2B+Windows+Desktop+Apps;Flutter+Mobile+Developer;MikroTik+%E2%80%A2+Cisco+%E2%80%A2+Proxmox+VE;Cloudflare+Zero+Trust+%2B+API+Automation;Build+%E2%86%92+Ship+%E2%86%92+Harden+%E2%86%92+Monitor" alt="Typing animation" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=L1HIMNAUTAK&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/L1HIMNAUTAK?tab=followers">
+    <img src="https://img.shields.io/github/followers/L1HIMNAUTAK?label=Followers&style=for-the-badge&color=ff6b9d&logo=github" alt="Followers" />
+  </a>
+  <a href="mailto:mike.gonzales@lkygroup.com">
+    <img src="https://img.shields.io/badge/Email-mike.gonzales%40lkygroup.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://lkygroup.com">
+    <img src="https://img.shields.io/badge/LKY%20Group-Engineer-0f172a?style=for-the-badge&logo=briefcase&logoColor=white" alt="Company" />
+  </a>
+</p>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        ABOUT ME                                ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+mike:
+  role:        Senior Software & Network Engineer
+  company:     LKY Group
+  location:    Philippines 🇵🇭
+  focus:
+    - Full-stack web apps (Laravel + Livewire + Filament)
+    - C# / .NET Windows desktop applications
+    - Cross-platform mobile (Flutter)
+    - Multi-tenant infrastructure (Proxmox, Docker, LXC)
+    - Network engineering (MikroTik, Cisco, Cloudflare)
+  philosophy:
+    - "Backup before change."
+    - "Thin controllers, fat services."
+    - "Default-deny, least privilege."
+    - "Accessibility & performance are not optional."
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
+
+<br>
+
+![Snake](https://github.com/L1HIMNAUTAK/L1HIMNAUTAK/blob/output/github-contribution-grid-snake-dark.svg)
+
+</td>
+</tr>
+</table>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      TECH STACK                                ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack
+</h2>
+
+<details open>
+<summary><b>💻 Languages &amp; Runtimes</b></summary>
+<br>
+
+![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-12-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-5-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 Backend Frameworks</b></summary>
+<br>
+
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-3-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-3-F59E0B?style=for-the-badge&logo=laravel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend &amp; UI</b></summary>
+<br>
+
+![Blade](https://img.shields.io/badge/Blade-Templating-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-3-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![WPF](https://img.shields.io/badge/WPF-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-Desktop-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2024-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases &amp; Caching</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PgBouncer](https://img.shields.io/badge/PgBouncer-Pooler-336791?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>☁️ Infrastructure &amp; Virtualization</b></summary>
+<br>
+
+![Proxmox](https://img.shields.io/badge/Proxmox%20VE-8-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Engine-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-Containers-323330?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-HTTPd-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology-DSM-11225E?style=for-the-badge&logo=synology&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Networking &amp; Security</b></summary>
+<br>
+
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS%207-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![fail2ban](https://img.shields.io/badge/fail2ban-IPS-D32F2F?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-Firewall-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Operating Systems</b></summary>
+<br>
+
+![Debian](https://img.shields.io/badge/Debian-12%2F13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2019%2F2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tooling</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-SCM-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-PHP-885630?style=for-the-badge&logo=composer&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-.NET-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   FEATURED PROJECTS                            ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"/> Featured Projects
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪟 LIMS — Lky Information Management System
+> **The flagship dual-stack platform.**
+
+A Windows desktop application built with **C# / .NET** that talks to a **Laravel API backend** — covering core business operations across LKY Group: inventory, transactions, master data, and reporting. The desktop client gives operators a fast, native, keyboard-driven UX; the Laravel server handles authentication, business rules, persistence, and integrations with the rest of the LKY platform.
+
+`C# 12` &nbsp;·&nbsp; `.NET 8` &nbsp;·&nbsp; `WPF / WinForms` &nbsp;·&nbsp; `Laravel 12` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 TMS — Transport Management System
+> **End-to-end transport platform with hardware gates.**
+
+Laravel server + client app + Raspberry-Pi-based vehicle barrier controllers at entry/exit gates. Real-time gate operations backed by PostgreSQL through an SSH-tunneled jump host, fronted by Cloudflare. Integrates barrier ID-readers, traffic logs, and an admin dashboard.
+
+`Laravel` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Raspberry Pi` &nbsp;·&nbsp; `Cloudflare Tunnel`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👥 HRIS &amp; HRIS Mobile
+> **HR platform + Flutter companion app.**
+
+Laravel 12 + PostgreSQL 17 (PgBouncer-pooled) HR system with 12 scheduled jobs and a **Flutter mobile companion** distributed through a custom APK portal at `apk.lky.systems`. Custom one-command release pipeline (`release-apk.sh`): version-bump → build → upload-to-Synology → DB-register → smoke-test → commit.
+
+`Laravel 12` &nbsp;·&nbsp; `PostgreSQL 17` &nbsp;·&nbsp; `PgBouncer` &nbsp;·&nbsp; `Flutter` &nbsp;·&nbsp; `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖐️ BioServer — ZKTeco Biometric Attendance
+> **Biometric punch ingestion &amp; reporting.**
+
+Laravel/Blade app that pulls biometric punches from ZKTeco devices and surfaces attendance, scheduling, and exception reporting for LKY Group operations. Real-time sync, multi-location, and supervisor-level overrides. _Private repo._
+
+`Laravel` &nbsp;·&nbsp; `PHP` &nbsp;·&nbsp; `Blade` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `ZKTeco SDK`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Management System
+> **4-phase, ~110-table system (in design).**
+
+Reservations, front office, housekeeping, F&amp;B, and back-office accounting for hotel operations under the LKY Group portfolio. Currently in architectural planning.
+
+`Laravel` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Livewire` &nbsp;·&nbsp; `Filament`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 WordPress Estate — Multi-Tenant Hosting
+> **Six production sites, two Proxmox hosts.**
+
+`theorientalhotels.com`, `lkygroup.com`, `mwx.systems`, `wtl.lky.systems`, `lky.systems`, `apk.lky.systems` — each behind its own Cloudflare Tunnel. Includes a multisite migration from shared cPanel hosting to fully Dockerized WordPress.
+
+`nginx` &nbsp;·&nbsp; `php-fpm 8.4` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Cloudflare Tunnel`
+
+</td>
+</tr>
+</table>
+
+<h3 align="center">🛠️ Open-Source Utilities</h3>
+
+<p align="center">
+  <a href="https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L1HIMNAUTAK&repo=StartIsBack-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="StartIsBack-Reset-Script" />
+  </a>
+  <a href="https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L1HIMNAUTAK&repo=AnyDesk-Reset-Script&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="AnyDesk-Reset-Script" />
+  </a>
+</p>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  ENGINEERING HIGHLIGHTS                        ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/> Engineering Highlights
+</h2>
+
+| 🎯 | Achievement |
+|----|-------------|
+| 📦 | **Internal APK distribution portal** at `apk.lky.systems` — three-tier delivery (Cloudflare Tunnel → LXC nginx + FileBrowser → Synology CIFS) with scoped users and a custom Tailwind/Alpine landing page. |
+| 🚀 | **One-command Flutter release pipeline** — idempotent shell pipeline: pubspec bump → APK build → Synology upload → DB registration → version-check smoke test → commit. |
+| 🔀 | **Cross-host production migration** of `lkygroup.com` from shared cPanel to dedicated Dockerized stack on a new Proxmox host, with staging URL, DNS cut-over, and rollback path. |
+| 📉 | **Post-incident infrastructure right-sizing** — recovered HRIS Staging + TMS Production after a Proxmox over-provisioning event and re-baselined LXC CPU/RAM across two PVE hosts. |
+| ☁️ | **Cloudflare Tunnel ingress automation** via the Cloudflare API — reproducible domain onboarding (`apk.lky.systems`, `wtl.lky.systems`, …). |
+| 🛡️ | **Network segmentation &amp; hardening** — VLAN-isolated management/server/user/IoT/guest networks; default-deny firewall; SSH key-only; fail2ban; SNMPv3 only. |
+| ⏱️ | **Resilience tooling** — watchdog timers and post-reboot ordering fixes for nginx network-race, code-server heap leak, and Redis AOF corruption recovery. |
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       GITHUB STATS                             ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W3QKEujo8vmpC/giphy.gif" width="32"/> GitHub Stats
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L1HIMNAUTAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b9d&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1HIMNAUTAK&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=ff6b9d&fire=ffaa40&currStreakLabel=58a6ff" alt="Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1HIMNAUTAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top languages" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L1HIMNAUTAK&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ffffff&area=true&area_color=58a6ff" alt="Activity graph" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=L1HIMNAUTAK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     WORKING STYLE                              ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32"/> How I Work
+</h2>
+
+<table>
+<tr>
+<td align="center" width="20%">📚<br><b>Docs-driven</b><br><sub>Every module has a <code>docs/</code> entry.</sub></td>
+<td align="center" width="20%">🎯<br><b>Thin Controllers</b><br><sub>Logic in services and actions.</sub></td>
+<td align="center" width="20%">♿<br><b>A11y &amp; Perf</b><br><sub>WCAG-AA, lazy load, pagination.</sub></td>
+<td align="center" width="20%">💾<br><b>Backup First</b><br><sub>Verified backup before any change.</sub></td>
+<td align="center" width="20%">🔒<br><b>Least Privilege</b><br><sub>Default-deny, scoped accounts.</sub></td>
+</tr>
+</table>
+
+<!-- ╔════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        CONTACT                                 ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="32"/> Let's Connect
+</h2>
 
 <p align="center">
   <a href="mailto:mike.gonzales@lkygroup.com">
-    <img src="https://img.shields.io/badge/email-mike.gonzales%40lkygroup.com-0a66c2?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mike.gonzales%40lkygroup.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/L1HIMNAUTAK">
+    <img src="https://img.shields.io/badge/GitHub-%40L1HIMNAUTAK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://lkygroup.com">
-    <img src="https://img.shields.io/badge/Company-LKY%20Group-0f172a?style=flat-square" alt="Company" />
-  </a>
-  <a href="https://github.com/L1HIMNAUTAK?tab=followers">
-    <img src="https://img.shields.io/github/followers/L1HIMNAUTAK?label=Followers&style=flat-square&color=0a66c2" alt="Followers" />
+    <img src="https://img.shields.io/badge/LKY%20Group-Engineer-0f172a?style=for-the-badge&logo=briefcase&logoColor=white" alt="Company" />
   </a>
 </p>
 
----
+<br>
 
-## About
+<p align="center">
+  <i>⭐ "Build → Ship → Harden → Monitor." ⭐</i>
+</p>
 
-Full-stack software engineer and network/infrastructure architect at **LKY Group**, where I lead the design and operation of internal business systems and the network plumbing that supports them. My work spans the entire delivery lifecycle: requirements, system architecture, application development, deployment, hardening, monitoring, and on-call recovery.
-
-I am most effective at the intersection of software and infrastructure — building Laravel and Flutter applications and the multi-tenant, segmented networks, virtualization clusters, and edge-routing setups they run on.
-
----
-
-## Core Competencies
-
-| Software Engineering | Network &amp; Infrastructure |
-|---|---|
-| Full-stack web application design (Laravel, Livewire, Filament) | Multi-host Proxmox VE clustering and LXC/VM provisioning |
-| Cross-platform mobile development with Flutter | MikroTik RouterOS firewall, VLAN segmentation, and queue trees |
-| Relational database design (PostgreSQL, MySQL) | Cisco IOS access-layer configuration |
-| API design, authentication, and version-gated mobile release pipelines | Cloudflare Zero Trust tunnels and DNS automation |
-| UI/UX systems with Tailwind CSS and design-token discipline | Server hardening (fail2ban, UFW, SSH key-only, kernel tuning) |
-| CI-style release tooling, idempotent shell automation | Synology NAS deployment, CIFS/NFS integration, and backup strategy |
-
----
-
-## Featured Projects
-
-### IMS — Inventory Management System
-Internal Laravel 11 application for inventory, transactions, and operations across LKY Group properties. Designed around thin controllers, Form Request validation, route model binding, and a service/action layer for business logic. Tailwind + Alpine UI with strict accessibility and responsive-first layout.
-
-**Stack:** Laravel 11 · PHP 8.2 · MySQL · Livewire · Tailwind CSS · Alpine.js · Vite
-
-### TMS — Transport Management System
-End-to-end transport platform combining a Laravel server, client application, and Raspberry Pi–based vehicle barrier controllers at entry/exit gates. Real-time gate operations, PostgreSQL backing store accessed through an SSH-tunneled jump host, and Cloudflare-fronted production endpoints.
-
-**Stack:** Laravel · Docker · PostgreSQL · Raspberry Pi · Cloudflare Tunnel · Debian
-
-### HRIS — HR Information System &amp; Mobile App
-Laravel 12 + PostgreSQL HR platform with PgBouncer pooling, twelve scheduled jobs, and a companion Flutter mobile app distributed through an internal APK portal at `apk.lky.systems`. Built a one-command release pipeline (`release-apk.sh`) that bumps the pubspec, builds the APK, uploads to a Synology share, registers the release in the database, and verifies the version-check API — gating clients via `force_update` and `min_required_version` flags.
-
-**Stack:** Laravel 12 · PHP 8.2 · PostgreSQL 17 · PgBouncer · Flutter · Dart · Redis
-
-### BioServer — ZKTeco Biometric Attendance Management
-Internal Laravel/Blade application that ingests biometric punches from ZKTeco devices and surfaces attendance, scheduling, and exception reporting for LKY Group operations. _Private repository._
-
-**Stack:** Laravel · PHP · Blade · MySQL
-
-### Hotel Management System (in design)
-Four-phase, ~110-table system covering reservations, front office, housekeeping, F&amp;B, and back-office accounting for hotel operations under the LKY Group portfolio. Currently in architectural planning.
-
-**Stack (planned):** Laravel · PostgreSQL · Livewire · Filament
-
-### WordPress Estate — Multi-Tenant Hosting
-Operates several production WordPress properties across two Proxmox hosts, each fronted by its own Cloudflare Tunnel and reverse-proxy stack:
-`theorientalhotels.com`, `lkygroup.com`, `mwx.systems`, `wtl.lky.systems`, `lky.systems`, `apk.lky.systems`.
-Includes a multisite migration from shared cPanel hosting to fully Dockerized WordPress on dedicated infrastructure.
-
-**Stack:** nginx · php-fpm 8.3/8.4 · MySQL · Docker · Dockge · Cloudflare Tunnel
-
----
-
-## Open-Source Utilities
-
-Small, focused PowerShell tools for Windows administrators:
-
-- **[StartIsBack-Reset-Script](https://github.com/L1HIMNAUTAK/StartIsBack-Reset-Script)** — Fully resets StartIsBack and cleans all traces, registry keys, and CLSIDs for a clean uninstall or fresh start.
-- **[AnyDesk-Reset-Script](https://github.com/L1HIMNAUTAK/AnyDesk-Reset-Script)** — Resets AnyDesk settings, removes traces, and restores it to a fresh state for troubleshooting or clean reinstalls.
-
----
-
-## Technical Stack
-
-#### Languages &amp; Runtimes
-![PHP](https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-12-239120?style=flat-square&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-7-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-5-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Standard-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-#### Backend Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-3-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-3-F59E0B?style=flat-square&logo=laravel&logoColor=white)
-
-#### Frontend
-![Blade](https://img.shields.io/badge/Blade-Templating-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-3-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
-![Heroicons](https://img.shields.io/badge/Heroicons-2-7C3AED?style=flat-square)
-![Lucide](https://img.shields.io/badge/Lucide-Icons-F56565?style=flat-square&logo=lucide&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2024-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-#### Databases &amp; Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PgBouncer](https://img.shields.io/badge/PgBouncer-pooler-336791?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-#### Infrastructure &amp; Virtualization
-![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-8-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-Containers-323330?style=flat-square&logo=linuxcontainers&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Engine-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Dockge](https://img.shields.io/badge/Dockge-UI-2496ED?style=flat-square)
-![nginx](https://img.shields.io/badge/nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-HTTPd-D22128?style=flat-square&logo=apache&logoColor=white)
-![Synology](https://img.shields.io/badge/Synology-DSM-11225E?style=flat-square&logo=synology&logoColor=white)
-
-#### Networking &amp; Security
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS%207-293239?style=flat-square&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![fail2ban](https://img.shields.io/badge/fail2ban-IPS-D32F2F?style=flat-square)
-![UFW](https://img.shields.io/badge/UFW-Firewall-DD4814?style=flat-square&logo=ubuntu&logoColor=white)
-
-#### Operating Systems
-![Debian](https://img.shields.io/badge/Debian-12%2F13-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-2019%2F2022-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11&logoColor=white)
-
-#### Tooling &amp; Practices
-![Git](https://img.shields.io/badge/Git-SCM-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-SCM-181717?style=flat-square&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-PHP-885630?style=flat-square&logo=composer&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-.NET-004880?style=flat-square&logo=nuget&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-366488?style=flat-square)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-> **Engineering practices**: PSR-12 · Form Requests · Service / Action layer · Route Model Binding · API Resources · Eager Loading · Index discipline · CSRF · Default-deny firewalls · Backup-before-change · Least privilege
-
----
-
-## Selected Engineering Highlights
-
-- **Internal APK distribution portal (`apk.lky.systems`)** — Designed a three-tier delivery chain (Cloudflare Tunnel → LXC nginx + FileBrowser → Synology CIFS) with scoped FileBrowser users, autoindex-backed JSON listings, and a custom Tailwind/Alpine landing page consuming the listing directly.
-- **One-command Flutter release pipeline** — Built an idempotent shell pipeline that bumps `pubspec.yaml`, runs `flutter build apk --release`, uploads to a Synology share, registers the release in PostgreSQL via a transient PHP boot script, and smoke-tests the version-check endpoint before committing.
-- **Cross-host production migration** — Moved `lkygroup.com` from shared cPanel hosting to a dedicated, Dockerized stack on a new Proxmox host, with staging URL, DNS cut-over, and rollback path.
-- **Post-incident infrastructure right-sizing** — Recovered HRIS Staging and TMS Production after a Proxmox over-provisioning event, then re-baselined LXC CPU/RAM allocations across two PVE hosts to fit measured workload (e.g. WordPress nodes capped at 2–4 cores / 2–4 GB).
-- **Cloudflare Tunnel ingress automation** — Manages tunnel ingress rules and DNS via the Cloudflare API rather than the dashboard, enabling reproducible domain on-boarding (`apk.lky.systems`, `wtl.lky.systems`, and others).
-- **Network segmentation and hardening** — VLAN-isolated management, server, user, IoT, and guest networks with default-deny firewall policies; SSH key-only access, fail2ban on public-facing services, and SNMPv3 management.
-- **Resilience tooling** — Watchdog timers and post-reboot ordering fixes for services that historically failed after host restarts (nginx network-race, code-server heap leak, Redis AOF corruption recovery).
-
----
-
-## Working Style
-
-- **Documentation-driven** — every shipped module has a `docs/` entry (modules, features, API, database, testing, deployment).
-- **Thin controllers, fat services** — business logic lives in services and actions, not controllers.
-- **Accessibility &amp; performance first** — WCAG-AA contrast, semantic HTML, keyboard navigation, lazy loading, and pagination are non-negotiable defaults.
-- **Backup before change** — every infrastructure change is preceded by a verified backup and followed by a 48-hour monitoring window.
-- **Least privilege** — default-deny firewalls, scoped service accounts, segregated VLANs, and SSH key rotation.
-
----
-
-## Contact
-
-- **Email:** [mike.gonzales@lkygroup.com](mailto:mike.gonzales@lkygroup.com)
-- **Company:** [LKY Group](https://lkygroup.com)
-- **GitHub:** [@L1HIMNAUTAK](https://github.com/L1HIMNAUTAK)
-
-<sub>Open to discussing engineering, infrastructure, and platform problems — particularly where software and network design meet.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=fadeIn" alt="Footer" />
