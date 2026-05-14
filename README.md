@@ -7,9 +7,23 @@
 <!-- ║                       HEADER BANNER                            ║ -->
 <!-- ╚════════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/L1HIMNAUTAK">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,50:FF1493,100:00BFFF&height=240&section=header&text=Mike%20Gonzales&fontSize=70&fontAlignY=35&desc=Senior%20Software%20%C2%B7%20Network%20%26%20Infrastructure%20Engineer&descAlignY=60&descSize=18&fontColor=ffffff" alt="Header" />
-</a>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="waving"/>
+  Hi, I'm Mike Gonzales
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" alt="rocket"/>
+</h1>
+
+<h3 align="center">
+  <samp>Senior Software &nbsp;·&nbsp; Network &amp; Infrastructure Engineer</samp>
+</h3>
+
+<p align="center">
+  <a href="https://lkygroup.com"><img src="https://img.shields.io/badge/%F0%9F%A2%A2%20LKY%20Group-Senior%20Engineer-8A2BE2?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%AD%20Based%20in-Philippines-FF1493?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Open%20to-Collaboration-00BFFF?style=for-the-badge&labelColor=0d1117" /></a>
+</p>
+
+<hr>
 
 <p align="center">
   <a href="https://github.com/L1HIMNAUTAK">
@@ -328,13 +342,18 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=L1HIMNAUTAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b9d&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
+  <a href="https://github.com/L1HIMNAUTAK"><img src="https://img.shields.io/github/followers/L1HIMNAUTAK?label=Followers&style=for-the-badge&color=58a6ff&logo=github&labelColor=0d1117" /></a>
+  <a href="https://github.com/L1HIMNAUTAK?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&style=for-the-badge&color=ff6b9d&logo=github&labelColor=0d1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FL1HIMNAUTAK" /></a>
+  <a href="https://github.com/L1HIMNAUTAK"><img src="https://img.shields.io/badge/dynamic/json?label=Gists&style=for-the-badge&color=ffaa40&logo=github&labelColor=0d1117&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FL1HIMNAUTAK" /></a>
+  <a href="https://github.com/L1HIMNAUTAK?tab=stars"><img src="https://img.shields.io/badge/dynamic/json?color=ffd700&style=for-the-badge&logo=github&labelColor=0d1117&label=Total%20Stars&query=%24.starredRepositories.totalCount&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FL1HIMNAUTAK" /></a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1HIMNAUTAK&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=ff6b9d&fire=ffaa40&currStreakLabel=58a6ff" alt="Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=L1HIMNAUTAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top languages" height="200" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L1HIMNAUTAK&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ffffff&area=true&area_color=58a6ff" alt="Activity graph" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L1HIMNAUTAK&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b9d&point=ffffff&area=true&area_color=58a6ff" alt="Activity graph" />
 </p>
 
 <p align="center">
@@ -385,4 +404,8 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
   <i>⭐ "Build → Ship → Harden → Monitor." ⭐</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:FF1493,100:8A2BE2&height=140&section=footer&reversal=true" alt="Footer" />
+<hr>
+
+<p align="center">
+  <a href="#mike-gonzales">⬆ Back to Top ⬆</a>
+</p>
