@@ -8,7 +8,7 @@
 <!-- ╚════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/L1HIMNAUTAK">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Mike%20Gonzales&fontSize=70&fontAlignY=35&desc=Senior%20Software%20%C2%B7%20Network%20%26%20Infrastructure%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,50:FF1493,100:00BFFF&height=240&section=header&text=Mike%20Gonzales&fontSize=70&fontAlignY=35&desc=Senior%20Software%20%C2%B7%20Network%20%26%20Infrastructure%20Engineer&descAlignY=60&descSize=18&fontColor=ffffff" alt="Header" />
 </a>
 
 <p align="center">
@@ -63,11 +63,7 @@ mike:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding" />
-
-<br>
-
-![Snake](https://github.com/L1HIMNAUTAK/L1HIMNAUTAK/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding" />
 
 </td>
 </tr>
@@ -389,4 +385,4 @@ Reservations, front office, housekeeping, F&amp;B, and back-office accounting fo
   <i>⭐ "Build → Ship → Harden → Monitor." ⭐</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=fadeIn" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00BFFF,50:FF1493,100:8A2BE2&height=140&section=footer&reversal=true" alt="Footer" />
